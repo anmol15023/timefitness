@@ -1,2 +1,2 @@
 # time fitness
-BCA FINAL YEAR PROJECT
+Btech FINAL Semester PROJECT -  Web Development project
