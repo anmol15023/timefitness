@@ -1,2 +1,2 @@
 # time fitness
-Btech FINAL Semester PROJECT -  Web Development project
+Btech First Semester PROJECT -  Web Development project
